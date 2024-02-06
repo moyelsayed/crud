@@ -1,0 +1,39 @@
+
+
+
+
+body, html {
+    overflow-x: hidden;
+}
+
+.box { 
+    float: right;
+    margin-right: 100px;
+    margin-top: 50px;
+    margin-left: 50px;
+    margin-bottom: 50px;
+    width: 20%;
+}
+
+.box img {
+    max-width: 100%;
+    height: auto;
+}
+
+
+.text {
+
+    margin-right: 100px;
+    margin-top: 50px;
+    margin-left: 100px;
+
+}
+
+.firsttext {
+    margin-top: 80px;
+    text-align: center;
+}
+
+
+
+
